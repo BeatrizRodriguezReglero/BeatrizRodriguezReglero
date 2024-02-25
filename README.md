@@ -11,15 +11,15 @@
 <h3 align="left">Connect with me:</h3>
 
   <a href="https://www.instagram.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/BeatrizRodriguezReglero/BeatrizRodriguezReglero/main/002-instagram.png" alt="url-de-devto" height="32" width="32" />
+    <img align="center" src="https://raw.githubusercontent.com/BeatrizRodriguezReglero/BeatrizRodriguezReglero/main/001-instagram.png" height="40" width="40" />
   </a>
 
   <a href="https://twitter.com/url-de-twitter" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/BeatrizRodriguezReglero/BeatrizRodriguezReglero/main/001-gorjeo.png" alt="url-de-twitter" height="32" width="32" />
+      <img align="center" src="https://raw.githubusercontent.com/BeatrizRodriguezReglero/BeatrizRodriguezReglero/main/003-gorjeo.png" alt="url-de-twitter" height="40" width="40" />
   </a>
 
   <a href="https://linkedin.com/in/url-de-linkedin" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/BeatrizRodriguezReglero/BeatrizRodriguezReglero/main/001-linkedin.png" alt="url-de-linkedin" height="40" width="40" />
   </a>
 </p>
 
