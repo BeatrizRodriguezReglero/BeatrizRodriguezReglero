@@ -1,24 +1,16 @@
-![Imagen decorativa de tu perfil](https://github.com/BeatrizRodriguezReglero/BeatrizRodriguezReglero/blob/main/DSC09466.jpg)
+![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/BeatrizRodriguezReglero/BeatrizRodriguezReglero/main/DSC09466.jpg)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
+<h1 align="center">Hola 👋, Soy Bea</h1>
 <h3 align="center">QUE TE APASIONA</h3>
 
-- 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
+- 🌱 ESTOY ESTUDIANDO **HTML, CSS, JAVASCRIPT**
 
-- 🌱 ESTOY ESTUDIANDO **INTRODUCE LENGUAJES, FRAMEWORKS**
-
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
-
-- 📫 PUEDES CONTACTARME EN **micorreo@midominio.com**
+- 📫 PUEDES CONTACTARME EN **beatriz.rreglero@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/url-de-codepen" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="url-de-codepen" height="30" width="40" />
-  </a>
 
-  <a href="https://dev.to/url-de-devto" target="blank">
+  <a href="https://www.instagram.com/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="url-de-devto" height="30" width="40" />
   </a>
 
