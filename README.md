@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/BeatrizRodriguezReglero/BeatrizRodriguezReglero/main/foto-readme.png)
+![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/BeatrizRodriguezReglero/BeatrizRodriguezReglero/main/foto-readme1.png)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">¡Hola! , soy Bea 😃</h1>
