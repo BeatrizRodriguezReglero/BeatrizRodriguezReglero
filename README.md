@@ -42,7 +42,7 @@
  </a>
 
   <a href="https://getbem.com/">
-      <img src="http://jennyknuth.com/wp-content/uploads/2018/03/BEM-1.png" target="_blank" rel="noreferrer" width="40" height="40" alt="BEM metodology">
+      <img src="https://raw.githubusercontent.com/BeatrizRodriguezReglero/BeatrizRodriguezReglero/main/BEM-1.png" target="_blank" rel="noreferrer" width="40" height="40" alt="BEM metodology">
   </a>
 
   <a href="https://sass-lang.com/">
